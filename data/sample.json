@@ -1,0 +1,142 @@
+[
+    {
+        "Country": "United Kingdom",
+        "Revenues": 1077300,
+        "Expenditures": 1120000,
+        "Surplus": 43000,
+        "GDP": "−1.1"
+    },
+    {
+        "Country": "Japan",
+        "Revenues": 1678000,
+        "Expenditures": 1888000,
+        "Surplus": 210000,
+        "GDP": "−4.6"
+    },
+    {
+        "Country": "Italy",
+        "Revenues": 884500,
+        "Expenditures": 927800,
+        "Surplus": 43000,
+        "GDP": "−2.3"
+    },
+    {
+        "Country": "United States",
+        "Revenues": 6028001,
+        "Expenditures": 6807161,
+        "Surplus": 887204,
+        "GDP": "−4.6"
+    },
+    {
+        "Country": "Canada",
+        "Revenues": 623700,
+        "Expenditures": 657400,
+        "Surplus": 34000,
+        "GDP": "−2.0"
+    },
+    {
+        "Country": "China",
+        "Revenues": 3312308,
+        "Expenditures": 3787245,
+        "Surplus": 474937,
+        "GDP": "−4.0"
+    },
+    {
+        "Country": "Brazil",
+        "Revenues": 618853,
+        "Expenditures": 779532,
+        "Surplus": 160679,
+        "GDP": "−7.8"
+    },
+    {
+        "Country": "India",
+        "Revenues": 544422,
+        "Expenditures": 725052,
+        "Surplus": 180630,
+        "GDP": "−6.9"
+    },
+    {
+        "Country": "France",
+        "Revenues": 1334000,
+        "Expenditures": 1412000,
+        "Surplus": 78000,
+        "GDP": "−3.1"
+    },
+    {
+        "Country": "Spain",
+        "Revenues": 492400,
+        "Expenditures": 535900,
+        "Surplus": 43500,
+        "GDP": "−3.3"
+    },
+    {
+        "Country": "Australia",
+        "Revenues": 461000,
+        "Expenditures": 484900,
+        "Surplus": 23900,
+        "GDP": "−1.7"
+    },
+    {
+        "Country": "Korea, South",
+        "Revenues": 351600,
+        "Expenditures": 338000,
+        "Surplus": 13600,
+        "GDP": "0.60"
+    },
+    {
+        "Country": "Netherlands",
+        "Revenues": 344800,
+        "Expenditures": 340200,
+        "Surplus": 4600,
+        "GDP": "0.60"
+    },
+    {
+        "Country": "Germany",
+        "Revenues": 1598000,
+        "Expenditures": 1573000,
+        "Surplus": 25000,
+        "GDP": "0.70"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Revenues": 260000,
+        "Expenditures": 294933,
+        "Surplus": 34933,
+        "GDP": "− 4.2"
+    },
+    {
+        "Country": "Russia",
+        "Revenues": 253900,
+        "Expenditures": 287500,
+        "Surplus": 33600,
+        "GDP": "−2.3"
+    },
+    {
+        "Country": "Sweden",
+        "Revenues": 274800,
+        "Expenditures": 269900,
+        "Surplus": 4900,
+        "GDP": "0.90"
+    },
+    {
+        "Country": "Belgium",
+        "Revenues": 249700,
+        "Expenditures": 260000,
+        "Surplus": 10300,
+        "GDP": "−2.1"
+    },
+    {
+        "Country": "Mexico",
+        "Revenues": 292800,
+        "Expenditures": 314900,
+        "Surplus": 22100,
+        "GDP": "−1.9"
+    },
+    {
+        "Country": " Switzerland",
+        "Revenues": 223500,
+        "Expenditures": 222100,
+        "Surplus": 1400,
+        "GDP": "0.20"
+    }
+]

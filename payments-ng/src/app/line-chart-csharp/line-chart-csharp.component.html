@@ -1,0 +1,9 @@
+<div *ngIf="show">
+    <h4>Line Chart Calling CSharp .Net WEB API</h4>
+    <div *ngIf="lineChartData" class="card">
+        <canvas baseChart width="400" height="300" [datasets]="lineChartData" [labels]="lineChartLabels"
+            [options]="lineChartOptions" [colors]="lineChartColors" [legend]="lineChartLegend"
+            [chartType]="lineChartType">
+        </canvas>
+    </div>
+</div>
